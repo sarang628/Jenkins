@@ -20,3 +20,5 @@ Run java -jar jenkins.war --httpPort=8080
 Browse to http://localhost:8080
 
 Follow the instructions to complete the installation
+
+apt install net-tools
